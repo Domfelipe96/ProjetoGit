@@ -1,1 +1,1 @@
-Olá esse projeto ensina você a usar o Git
+Olá, projeto foi feito para alteração de array entre lowerCase e upperCase
