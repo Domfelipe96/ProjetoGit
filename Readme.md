@@ -1,1 +1,1 @@
-Olá, projeto foi feito para alteração de array entre lowerCase e upperCase
+Repositório para projetos git
